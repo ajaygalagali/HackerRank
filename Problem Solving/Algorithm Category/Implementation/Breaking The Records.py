@@ -17,3 +17,4 @@ for i in score:
 
 print(max_count,min_count)
 
+#test
